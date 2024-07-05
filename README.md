@@ -1,3 +1,6 @@
+# https://www.atbuftejoste.com.ng/index.php/joste/article/view/2086
+
+
 Customer reviews are vital for fashion brands to grow and improve. Businesses make informed 
 decisions based on user feedback to enhance their products. However, issues can arise during the 
 review analysis process. There may be numerous reviews to sift through, as well as emotional 
@@ -10,3 +13,4 @@ in customer reviews will help create a robust hybrid system.
 
 
 [DETERMINING CUSTOMER SENTIMENT IN FASHION PRODUCT REVIEWS USING LEXICON (2).pdf](https://github.com/user-attachments/files/15764960/DETERMINING.CUSTOMER.SENTIMENT.IN.FASHION.PRODUCT.REVIEWS.USING.LEXICON.2.pdf)
+
